@@ -2,7 +2,7 @@
 
 # Repository Setup
 echo "## Repository Setup"
-echo "git init"
+"git int"
 echo "git clone <repository-url>"
 
 # Staging and Committing
